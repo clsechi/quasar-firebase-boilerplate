@@ -4,7 +4,7 @@
   "description": "Boilerplate to start projects using Quasar and Firebase features",
   "productName": "Quasar + Firebase boilerplate",
   "cordovaId": "org.cordova.quasar.app",
-  "author": "Carlos Sechi <carlos.sechi@frentecorretora.com.br>",
+  "author": "Carlos Sechi <carlossechi@hotmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
